@@ -15,8 +15,8 @@
 
  
  
-const char* ssid = "YOUR_SSID";
-const char* password = "YOUR_PASSWORD";
+const char* ssid = "FRITZBOX_2.4GHz";
+const char* password = "Arduino_Galileo1";
 const char*  mDNS_NAME = "esp32-cam";
 
 
